@@ -111,11 +111,11 @@ Erstelle eine Datei `/src/components/Card.module.css`:
 Import in der Komponente:
 
 ```tsx
-import styles from "./Drawer.module.css";
+import styles from "./Card.module.css";
 ```
 
 Verwendung:
 
 ```tsx
-<div className={styles.drawer}>
+<div className={styles.card}>
 ```
