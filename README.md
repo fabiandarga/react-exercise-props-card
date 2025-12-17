@@ -108,7 +108,7 @@ Erstelle eine Datei `/src/components/Card.module.css`:
 }
 ```
 
-Import in der Komponente:
+Import in der Card Komponente:
 
 ```tsx
 import styles from "./Card.module.css";
